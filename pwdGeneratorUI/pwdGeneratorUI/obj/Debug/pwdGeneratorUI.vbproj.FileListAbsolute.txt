@@ -1,0 +1,12 @@
+C:\Users\charl\Desktop\codingStuff\Visual Basic\pwdGeneratorUI\pwdGeneratorUI\obj\Debug\pwdGeneratorUI.vbprojAssemblyReference.cache
+C:\Users\charl\Desktop\codingStuff\Visual Basic\pwdGeneratorUI\pwdGeneratorUI\obj\Debug\pwdGeneratorUI.main.resources
+C:\Users\charl\Desktop\codingStuff\Visual Basic\pwdGeneratorUI\pwdGeneratorUI\obj\Debug\pwdGeneratorUI.Resources.resources
+C:\Users\charl\Desktop\codingStuff\Visual Basic\pwdGeneratorUI\pwdGeneratorUI\obj\Debug\pwdGeneratorUI.vbproj.GenerateResource.cache
+C:\Users\charl\Desktop\codingStuff\Visual Basic\pwdGeneratorUI\pwdGeneratorUI\obj\Debug\pwdGeneratorUI.vbproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\codingStuff\Visual Basic\pwdGeneratorUI\pwdGeneratorUI\bin\Debug\pwdGeneratorUI.exe.config
+C:\Users\charl\Desktop\codingStuff\Visual Basic\pwdGeneratorUI\pwdGeneratorUI\bin\Debug\pwdGeneratorUI.exe
+C:\Users\charl\Desktop\codingStuff\Visual Basic\pwdGeneratorUI\pwdGeneratorUI\bin\Debug\pwdGeneratorUI.pdb
+C:\Users\charl\Desktop\codingStuff\Visual Basic\pwdGeneratorUI\pwdGeneratorUI\bin\Debug\pwdGeneratorUI.xml
+C:\Users\charl\Desktop\codingStuff\Visual Basic\pwdGeneratorUI\pwdGeneratorUI\obj\Debug\pwdGeneratorUI.exe
+C:\Users\charl\Desktop\codingStuff\Visual Basic\pwdGeneratorUI\pwdGeneratorUI\obj\Debug\pwdGeneratorUI.xml
+C:\Users\charl\Desktop\codingStuff\Visual Basic\pwdGeneratorUI\pwdGeneratorUI\obj\Debug\pwdGeneratorUI.pdb
